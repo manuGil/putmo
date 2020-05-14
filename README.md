@@ -3,7 +3,7 @@ A repository containing code for extending the functionality of the PostGIS exte
 
 The code was tested using GPS tracks of pedestrians visiting a city. For more informations refer to the reference below.
 
-## Skils Acquired
+## Skills Acquired
 * PL/pgSQL procedural programming
 * Batch file programming
 * Management of PostgreSQL databases
