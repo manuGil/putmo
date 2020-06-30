@@ -1,7 +1,7 @@
 # putmo
 A repository containing code for extending the functionality of the PostGIS extension, and a batch file for parsing GPX files and injecting data points into a PostgreSQL/PostGIS database.
 
-The code was tested using GPS tracks of pedestrians visiting a city. For more informations refer to the reference below.
+The code was tested using GPS tracks of pedestrians visiting a city. For more information refer to the reference below.
 
 ## Skills Acquired
 * PL/pgSQL procedural programming
